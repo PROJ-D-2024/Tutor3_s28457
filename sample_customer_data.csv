@@ -1,51 +1,21 @@
 customer_id,name,age,email,signup_date,location,purchase_amount,category
-1001,David Pace,150,smitheric@hotmail.com,2022-05-25,Port Lisaland,375.79,
-1002,Alexander Lynn,200,ucoleman@hotmail.com,2025-10-07,North Kimberly,746.59,unknown
-1003,Frederick Payne,120,paul17@yahoo.com,2022-12-20,Taylorland,836.65,
-1004,Gail Lowe,37,andrewmejia@todd.org,2020-11-26,East Ginafurt,3000.00,unknown
-1005,Roberta Charles,24,kimberlymiller@gay-thompson.info,2023-04-18,Maryville,764.34,
-1006,Jeffrey Campbell,48,jamescoleman@brewer-valentine.com,2022-03-29,South Richardland,2000.00,unknown
-1007,Dale Clark,46,ayersmaria@gonzales-scott.com,2026-09-28,Martinshire,848.79,
-1008,Dawn Jacobs,61,joshua34@hotmail.com,2020-02-11,East Scotttown,358.12,unknown
-1009,Anthony Wright,27,meredith46@yahoo.com,2024-07-21,Troyport,52.73,
-1010,Desiree Ray,36,padillaashley@jimenez.com,2023-12-21,,160.98,
-1011,Jessica Williams,29,cynthia68@gmail.com,2020-01-03,Scottfurt,761.78,unknown
-1012,Veronica Larson,43,reginaaguilar@hotmail.com,2021-03-20,Sullivanborough,120.4,
-1013,Crystal Johnson,27,brian47@gmail.com,2022-02-07,Marybury,936.93,
-1014,George King,75,mcconnellabigail@perez-nelson.com,2020-11-14,West Gabrielle,561.21,
-1015,Mr. Aaron Nelson,55,yolanda03@hotmail.com,2022-11-26,Romerofort,687.25,
-1016,Jennifer Lowery,70,mmaxwell@reed-matthews.org,2022-07-26,South Cassandra,608.13,unknown
-1017,Nathan Hernandez,60,daniel07@gmail.com,2020-07-11,North Maria,491.61,unknown
-1018,Cody Jones,41,carrie08@matthews.com,2024-08-04,West Shawn,109.82,
-1019,Mark Tucker,77,lisawilson@jones.com,2022-12-22,Susanberg,650.41,
-1020,Paul Hunter,70,kingwilliam@gmail.com,2022-04-18,South Kimberly,690.08,
-1021,Deanna Finley,19,stephen36@hotmail.com,2021-12-01,Mariafort,652.92,
-1022,Allison Gonzales,67,christopher57@gmail.com,2022-12-13,East Joannabury,204.35,
-1023,Rebecca Walker,50,lyonszachary@hill.com,2020-08-26,Michelestad,429.37,
-1024,Angela Martinez,31,lisa67@walsh.org,2024-10-01,Harrellshire,8.73,
-1025,Tina Mcfarland,45,wadams@thomas.com,2022-08-29,Barrerafurt,509.81,
-1026,Daisy Calhoun,53,millerjoseph@gmail.com,2021-02-03,Walshton,10.83,unknown
-1027,Steven Barnes,23,lburnett@hotmail.com,2023-01-19,Ellisview,730.02,
-1028,Patrick Davis,26,oprice@yahoo.com,2021-04-21,Elizabethton,418.89,unknown
-1029,Mariah Levine,60,abaker@gmail.com,2021-11-07,Greenville,439.42,
-1030,Samantha Andrade,49,vallen@brown.com,2020-11-17,North Adammouth,581.81,
-1031,Deborah Meyers,52,andreaestrada@reilly.com,2024-04-27,Port Amberhaven,62.63,
-1032,Vincent Nelson,59,leediana@hotmail.com,2022-07-10,Lake Michael,394.05,
-1033,Sean Brewer,51,angelaramirez@yahoo.com,2024-03-22,New Kristachester,19.72,
-1034,Caleb Baker,40,richardosborn@gmail.com,2022-09-21,Huntbury,228.14,
-1035,Alex Davis,36,strongkelly@rodriguez.com,2021-10-08,North John,761.07,
-1036,Samantha Fitzgerald,32,hannahmccoy@newman-martinez.com,2024-01-31,Baxterhaven,456.02,
-1037,James Martin,37,michelemorris@gmail.com,2021-02-26,Vargashaven,390.89,
-1038,Brooke Vazquez,79,ashleymendoza@yahoo.com,2023-07-18,Sanchezton,919.86,
-1039,Bradley Brown,36,romerotina@lopez.com,2020-12-28,New Jeffrey,519.13,
-1040,Jacob Nunez,71,navarrolaura@chung.com,2022-08-04,Garretthaven,607.92,
-1041,Jennifer Blackwell,66,jburnett@gmail.com,2021-11-19,West Samanthaburgh,479.78,
-1042,James Bailey,53,megan96@rodriguez-marquez.biz,2024-05-13,South Jeanetteport,151.98,
-1043,Rita Young,63,ryan97@yahoo.com,2020-11-02,Transtad,405.34,
-1044,Robert Alexander,36,frankshawn@valentine.com,2024-07-09,West Tiffanyburgh,295.23,
-1045,Robert Ramsey,35,brenda39@yahoo.com,2021-03-10,Port Staceybury,445.91,
-1046,Joshua Smith,75,anthony06@hotmail.com,2020-12-21,Wrightfurt,644.97,
-1047,William Stark,52,smithvanessa@yahoo.com,2023-07-02,South Kelly,684.57,
-1048,Robert Miller,67,isimpson@roberson-wells.com,2021-04-02,South Wendy,849.34,
-1049,Jonathan Alvarez,31,brentchristensen@hotmail.com,2020-02-09,Gillport,582.4,
-1050,Sarah Smith,68,umcintosh@gmail.com,2021-10-27,New Cassandra,572.92,
+1001,David Pace,150,smitheric@hotmail.com,2022-05-25,Port Lisaland,375.79,class_0
+1002,Alexander Lynn,200,ucoleman@hotmail.com,2025-10-07,North Kimberly,746.59,class_1
+1003,Frederick Payne,120,paul17@yahoo.com,2022-12-20,Taylorland,836.65,class_0
+1004,Gail Lowe,37,andrewmejia@todd.org,2020-11-26,East Ginafurt,3000.00,class_2
+1005,Roberta Charles,24,kimberlymiller@gay-thompson.info,2023-04-18,Maryville,764.34,class_1
+1006,Jeffrey Campbell,48,jamescoleman@brewer-valentine.com,2022-03-29,South Richardland,2000.00,class_0
+1007,Dale Clark,46,ayersmaria@gonzales-scott.com,2026-09-28,Martinshire,848.79,class_1
+1008,Dawn Jacobs,61,joshua34@hotmail.com,2020-02-11,East Scotttown,358.12,class_2
+1009,Anthony Wright,27,meredith46@yahoo.com,2024-07-21,Troyport,52.73,class_0
+1010,Desiree Ray,36,padillaashley@jimenez.com,2023-12-21,,160.98,class_1
+1011,Jessica Williams,29,cynthia68@gmail.com,2020-01-03,Scottfurt,761.78,class_2
+1012,Veronica Larson,43,reginaaguilar@hotmail.com,2021-03-20,Sullivanborough,120.4,class_1
+1013,Crystal Johnson,27,brian47@gmail.com,2022-02-07,Marybury,936.93,class_0
+1014,George King,75,mcconnellabigail@perez-nelson.com,2020-11-14,West Gabrielle,561.21,class_1
+1015,Mr. Aaron Nelson,55,yolanda03@hotmail.com,2022-11-26,Romerofort,687.25,class_2
+1016,Jennifer Lowery,70,mmaxwell@reed-matthews.org,2022-07-26,South Cassandra,608.13,class_0
+1017,Nathan Hernandez,60,daniel07@gmail.com,2020-07-11,North Maria,491.61,class_1
+1018,Cody Jones,41,carrie08@matthews.com,2024-08-04,West Shawn,109.82,class_2
+1019,Mark Tucker,77,lisawilson@jones.com,2022-12-22,Susanberg,650.41,class_0
+1020,Paul Hunter,70,kingwilliam@gmail.com,2022-04-18,South Kimberly,690.08,class_1
