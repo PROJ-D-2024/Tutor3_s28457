@@ -1,5 +1,3 @@
-Thesis Project: Data Cleaning and Standardization
-
 Project Purpose
 
 The purpose of this project is to clean and standardize a dataset in preparation for the analysis and modeling required for my future thesis project. This involves selecting a relevant dataset, performing data cleaning (handling missing values, removing duplicates, addressing outliers), and standardizing the data to ensure consistency. The goal is to create a reproducible data preprocessing workflow.
